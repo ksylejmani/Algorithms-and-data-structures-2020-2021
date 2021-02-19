@@ -1,0 +1,6 @@
+﻿  KlasaTelfoni.cpp
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Shembujt ne ligjerata\KlasaTelfoni.cpp(20,14): warning C4018: '<': signed/unsigned mismatch
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Shembujt ne ligjerata\KlasaTelfoni.cpp(23,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TestimiASDh.cpp
+  Generating Code...
+  Shembujt ne ligjerata.vcxproj -> D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Debug\Shembujt ne ligjerata.exe
