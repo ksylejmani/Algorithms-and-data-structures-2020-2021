@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ShembullGjP.cpp">
+    <ClCompile Include="Llogaritjet me dy numra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TestimiASDh.cpp">
+    <ClCompile Include="Klasa Telfoni.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="KlasaTelfoni.cpp">
+    <ClCompile Include="Intervali ne mes te dy numrave.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
