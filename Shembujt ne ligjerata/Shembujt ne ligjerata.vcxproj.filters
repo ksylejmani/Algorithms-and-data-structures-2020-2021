@@ -24,5 +24,8 @@
     <ClCompile Include="Intervali ne mes te dy numrave.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Testi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
