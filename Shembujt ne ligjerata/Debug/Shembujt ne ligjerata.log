@@ -1,4 +1,4 @@
-﻿  Klasa studenti.cpp
-D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Algorithms-and-data-structures-2020-2021\Shembujt ne ligjerata\Klasa studenti.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
-D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Algorithms-and-data-structures-2020-2021\Shembujt ne ligjerata\Klasa studenti.cpp(62,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  Procesimi i fjalise.cpp
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Algorithms-and-data-structures-2020-2021\Shembujt ne ligjerata\Procesimi i fjalise.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Algorithms-and-data-structures-2020-2021\Shembujt ne ligjerata\Procesimi i fjalise.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
   Shembujt ne ligjerata.vcxproj -> D:\FIEK\Bachelor\Algoritmet dhe Struktura e te Dhenave\2020-2021\Shembujt ne ligjerata\Algorithms-and-data-structures-2020-2021\Debug\Shembujt ne ligjerata.exe

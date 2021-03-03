@@ -30,5 +30,11 @@
     <ClCompile Include="Klasa studenti.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Perdorimi i pointerave.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Procesimi i fjalise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
