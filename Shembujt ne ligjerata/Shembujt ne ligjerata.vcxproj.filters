@@ -27,5 +27,8 @@
     <ClCompile Include="Testi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Klasa studenti.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

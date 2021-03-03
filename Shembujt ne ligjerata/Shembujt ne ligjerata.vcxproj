@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Klasa studenti.cpp" />
     <ClCompile Include="Klasa Telfoni.cpp" />
     <ClCompile Include="Llogaritjet me dy numra.cpp" />
     <ClCompile Include="Intervali ne mes te dy numrave.cpp" />
