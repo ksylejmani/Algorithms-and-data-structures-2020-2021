@@ -36,5 +36,20 @@
     <ClCompile Include="Procesimi i fjalise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Numrimi i vlerave ne nje varg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Perdorimi i pointerave per rezervim te mememories ne menyre dinamike.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointerat me objekte.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shembuj me referenca.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Llogaritjet ne nje diapazon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
